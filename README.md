@@ -13,7 +13,7 @@ Nesta seção, você encontrará projetos e desafios que completei no Bootcamp D
 - ⭐ Desafio 1 - [Conhecendo o Azure Portal](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/01%20-%20Azure%20Portal%20.md). 
 - ⭐ Desafio 2 - [Criação de VMs Máquinas Virtuais](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/02%20-%20Maquinas%20Virtuais(Virtual%20Machine).md).
 - ⭐ Desafio 3 - [Criação de uma instância de Banco de Dados](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/03%20-%20Banco%20de%20dados(DataBase).md).
-
+- ⭐ Desafio 4 - [Componentes de Arquitetura no Azure](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/04%20-%20Componentes%20de%20Arquitetura%20no%20Azure.md).
 
 
 ### 2. Documentação do Azure
@@ -30,5 +30,3 @@ Explore o [Microsoft Learn - Modulo 1](https://learn.microsoft.com/en-us/trainin
 - **Faça simulados**: Teste seus conhecimentos com simulados para se familiarizar com o formato do exame.
 
 --
-
-<span style="font-size: 1.5em; color: green;">** Feito por Kelvin Moura! **</span>
