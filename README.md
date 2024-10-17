@@ -10,17 +10,17 @@ Aqui você encontrará uma série de laboratórios práticos e materiais que uti
 ### 1.1 Projetos e Desafios
 Nesta seção, você encontrará projetos e desafios que completei no Bootcamp DIO : cada desafio terá as instruções do passo a passo.
 
-- ⭐ Desafio 1 - [Conhecendo o Azure Portal](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/01%20-%20Azure%20Portal%20.md). 
-- ⭐ Desafio 2 - [Criação de VMs Máquinas Virtuais](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/02%20-%20Maquinas%20Virtuais(Virtual%20Machine).md).
-- ⭐ Desafio 3 - [Criação de uma instância de Banco de Dados](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/03%20-%20Banco%20de%20dados(DataBase).md).
-- ⭐ Desafio 4 - [Componentes de Arquitetura no Azure](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/04%20-%20Componentes%20de%20Arquitetura%20no%20Azure.md).
-- ⭐ Desafio 5 - [Configurar recursos em Vms](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/05%20-%20Configurar%20recursos%20em%20Vms.md).
-- ⭐ Desafio 6 - [Configurar Armazenamento (Storage)](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/06%20-%20Configurar%20Armazenamento%20(Storage).md).
-- ⭐ Desafio 7 - [Microsoft Entra ID e Security](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/07%20-%20Microsoft%20Entra%20ID%20e%20Security.md).
-- ⭐ Desafio 8 - [Otimização de Custos do Azure](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/08%20-%20Otimização%20de%20Custos%20do%20Azure.md).
-- ⭐ Desafio 9 - [Gerenciamento de acessos e politicas no azure](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/09%20-%20Gerenciamento%20de%20acessos%20e%20politicas%20no%20azure.md).
-- ⭐ Desafio 10 - [Ferramentas de Implantação e Gerenciamento no Azure](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/10%20-%20Ferramentas%20de%20Implantação%20e%20Gerenciamento%20no%20Azure.md).
-- ⭐ Desafio 11 - [Monitoramento Inteligente](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/11%20-%20Monitoramento%20Inteligente.md).
+- ⭐ Desafio 1 - [Conhecendo o Azure Portal](https://github.com/Gabrielbprado/Azure-Fundamentals/blob/main/01%20-%20Azure%20Portal%20.md). 
+- ⭐ Desafio 2 - [Criação de VMs Máquinas Virtuais](https://github.com/Gabrielbprado/Azure-Fundamentals/blob/main/02%20-%20Maquinas%20Virtuais(Virtual%20Machine).md).
+- ⭐ Desafio 3 - [Criação de uma instância de Banco de Dados](https://github.com/Gabrielbprado/Azure-Fundamentals/blob/main/03%20-%20Banco%20de%20dados(DataBase).md).
+- ⭐ Desafio 4 - [Componentes de Arquitetura no Azure](https://github.com/Gabrielbprado/Azure-Fundamentals/blob/main/04%20-%20Componentes%20de%20Arquitetura%20no%20Azure.md).
+- ⭐ Desafio 5 - [Configurar recursos em Vms](https://github.com/Gabrielbprado/Azure-Fundamentals/blob/main/05%20-%20Configurar%20recursos%20em%20Vms.md).
+- ⭐ Desafio 6 - [Configurar Armazenamento (Storage)](https://github.com/Gabrielbprado/Azure-Fundamentals/blob/main/06%20-%20Configurar%20Armazenamento%20(Storage).md).
+- ⭐ Desafio 7 - [Microsoft Entra ID e Security](https://github.com/Gabrielbprado/Azure-Fundamentals/blob/main/07%20-%20Microsoft%20Entra%20ID%20e%20Security.md).
+- ⭐ Desafio 8 - [Otimização de Custos do Azure](https://github.com/Gabrielbprado/Azure-Fundamentals/blob/main/08%20-%20Otimização%20de%20Custos%20do%20Azure.md).
+- ⭐ Desafio 9 - [Gerenciamento de acessos e politicas no azure](https://github.com/Gabrielbprado/Azure-Fundamentals/blob/main/09%20-%20Gerenciamento%20de%20acessos%20e%20politicas%20no%20azure.md).
+- ⭐ Desafio 10 - [Ferramentas de Implantação e Gerenciamento no Azure](https://github.com/Gabrielbprado/Azure-Fundamentals/blob/main/10%20-%20Ferramentas%20de%20Implantação%20e%20Gerenciamento%20no%20Azure.md).
+- ⭐ Desafio 11 - [Monitoramento Inteligente](https://github.com/Gabrielbprado/Azure-Fundamentals/blob/main/11%20-%20Monitoramento%20Inteligente.md).
 
 
 ### 2. Documentação do Azure
