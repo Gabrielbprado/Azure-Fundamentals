@@ -16,7 +16,8 @@ Nesta seção, você encontrará projetos e desafios que completei no Bootcamp D
 - ⭐ Desafio 4 - [Componentes de Arquitetura no Azure](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/04%20-%20Componentes%20de%20Arquitetura%20no%20Azure.md).
 - ⭐ Desafio 5 - [Configurar recursos em Vms](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/05%20-%20Configurar%20recursos%20em%20Vms.md).
 - ⭐ Desafio 6 - [Configurar Armazenamento (Storage)](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/06%20-%20Configurar%20Armazenamento%20(Storage).md).
-- ⭐ Desafio 8 - [Microsoft Entra ID e Security](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/07%20-%20Microsoft%20Entra%20ID%20e%20Security.md).
+- ⭐ Desafio 7 - [Microsoft Entra ID e Security](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/07%20-%20Microsoft%20Entra%20ID%20e%20Security.md).
+- ⭐ Desafio 8 - [Otimização de Custos do Azure](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/08%20-%20Otimização%20de%20Custos%20do%20Azure.md).
 
 
 ### 2. Documentação do Azure
